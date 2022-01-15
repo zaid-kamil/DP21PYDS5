@@ -1,4 +1,3 @@
-
 class Dog:
 
     # special method to setup the parameters of the class (constructor)
