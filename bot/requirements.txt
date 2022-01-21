@@ -1,0 +1,4 @@
+selenium
+pyautogui
+BeautifulSoup4
+wikipedia
